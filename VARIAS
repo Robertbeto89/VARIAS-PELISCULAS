@@ -1,7 +1,7 @@
 #EXTM3U:
 
 
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w500https://media.themoviedb.org/t/p/w94_and_h141_bestv2/dD3vhyDRCCT90hf4rldHU6Wu3Va.jpg",Red. White & Royal Blue
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500https://media.themoviedb.org/t/p/w94_and_h141_bestv2/dD3vhyDRCCT90hf4rldHU6Wu3Va.jpg",Red. White & Royal Blue
 https://dl.dropbox.com/scl/fi/smu6dcaivnglxuojtvsbh/s4ngr3.mp4?rlkey=boe7iz8253dwd4j2p66jqkitz
 #EXTINF:-1 tvg-logo="https://archive.org/download/mave_20230419/amorpor.png",Realmente Amor/Love Actually (2003)
 https://archive.org/download/amor_20230419/amor2.mkv
